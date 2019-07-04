@@ -1,0 +1,15 @@
+
+crockford.com
+javascript.info
+exploringjs.com
+mozilla developer network javascript
+\
+Node.js is JSRE
+Electron
+
+.js features
+//all IO operations are non blocking
+
+runtimes are necessary in order to run .js programs
+.js lang is based on ECMAscript spec
+kangax github
